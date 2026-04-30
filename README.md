@@ -1,2 +1,16 @@
 # porfolio_Ruiz
 algoritmos2
+El codigo esta dividido en 2 paginas distintas, en el index o archivo principal esta el porfolio
+el en segundo html se encuentra el bolg
+Para facilitar la comprension de estos cada uno tiene su hoja de layout y style diferenciados por una letra mayuscula al final siendo la B para blog y la P para porfolio, estos archivos los meti dentro de la carpeta co los archivos css y cada uno luego en la subcarpeta correspondiente. Por otro lado meti otra carpeta con las imagenes utilozadas para mantener toda la multimedia junta y que el repertorio se vea mas limpio.
+Arrancando el proyecto de blog no utilice ninguna division, asi que capaz haya algun fallo en el uso devido a eso.
+Luego lo implemente en la hoja layout y en el html, el blog tiene una estructura de layout mas simple para no complicarla ya que lo
+implemente tarde en el codigo
+Para el Porfolio fue lo primero que genere fueron las divisiones y a partir de ahi fue diseñar, elegir el contenido y hacer ajustes
+enfrente muchas dificultades para poner las imagenes como deseaba, lo logre pero a costa de la visibilidad funcional en celulares,
+en un futuro me gustaria investigar mas la razon de porque no se ajustaban como deseaba y poder adaptar la pagina a una pantalla de celular.
+Para el porfolio utilice la hoja de style con  3 funciones pricipalmente, la primera es ajustar los tamaños de los textos con el comando font-size: Xpx usando px como medida, la segunda es cambiar los colores del fondo con el backgound-color: (rgb) y la tercera para ajustar los tamaños de las imagenes, usando comandos de height y width para la altura y el ancho, en ambos use medida de px ya que las imagenes no tenian las mismas medidas, otros comandos no me funcionaban, termine usando valores fijos, pero como dije, este fue uno de los mayores problemas que afronte. Luego hay algunos detalles mas chicos como el uso el comando margin para ajustar un poco mas las separaciones y distancias entre textos, imagenes o algunos detalles puramente esteticos.
+En tanto al layout del porfolio esta dividido en 7 sin contar la division patern que seria la que genera la division de espacios de la cual despues cada div va a tomar partes de esa "torta" capaz habria sido mejor usar px fijos para las columnas y para las filas (column y rows) al final utilice un mix, mezclando fr y px como medidas para la division principal. El objetivo era un div inicial el cual tiene informacion de contacto y cuenta de mi trayectoria de estudio, por otro lado tenemos el segundo div que habla un poco mas de mi personalmente. Los siguente 4 div son las imagenes, encajadas para que se vean alineadas y por ultimo 
+el div 7 que se centra solo en contener los enlaces a mis otros proyectos.
+
+el blog cuenta con otros recursos como las sections para marcar inicio y fin de ciertos temas, utilizo repetidamente las tablas y con un mismo formato ya que es la menra mas facil de visualizar el contenido que se explica. tambien uso el iframe en 2 ocasiones en el div2 (columna lateral) para agregar contenido complementario de youtube, el resto de comandos de la hoja de estilos son mas de lo mencionado en el style del porfolio, comandos para ajustar tamaño o color del texto. en el layout de el blog si utilice directamente las franjas (fr) como medida.
