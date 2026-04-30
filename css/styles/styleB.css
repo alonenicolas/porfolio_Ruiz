@@ -1,0 +1,41 @@
+p{
+    color: black;
+    font-size: 20px;
+    justify-content: left;
+    
+}
+table, th, tr, td{
+    border: 1px solid rgb(53, 11, 63);
+    border-collapse: collapse;
+    border-width: 3px;
+    font-size: 20px;
+}
+h1{ 
+    color: rgb(255, 255, 255);
+}
+body{
+    background-color:rgba(108, 134, 156, 0.877) ;
+}
+h1{
+    background-color: rgb(16, 70, 87);
+}
+iframe{
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
+}
+#parrafo1 {
+    font-size: 40px;
+}
+#datos{
+    background-color:rgb(89, 87, 216);
+    margin: 0;
+}
+a{
+    margin: 15px;
+}
+#trayectoria{
+    font-size: 25px;
+    margin: 0;
+    margin-top: 8px;
+}

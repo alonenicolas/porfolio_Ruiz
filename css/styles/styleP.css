@@ -1,0 +1,48 @@
+.div3 img, .div4 img, .div5 img, .div6 img {
+    width: 450px;
+    height: 361.63px;
+    margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+} 
+.div2 p {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+
+}
+body{
+    background-color:rgba(150, 182, 211, 0.877) ;
+}
+#parrafo1 {
+    font-size: 25px;
+    
+}
+#parrafoDatos{
+    background-color: rgb(87, 87, 250);
+    font-size: 20px;
+    margin: 0;
+}
+h1{
+    background-color: rgb(71, 71, 182);
+    margin: 0;
+}
+h2{
+    background-color:rgb(89, 87, 216);
+    margin: 0;
+}
+#lenguajes{
+    margin: 0;
+    margin-top: 80px;
+}
+h3{
+    font-size: 30px;
+    background-color: rgb(12, 12, 94);
+    margin: 0;
+}
+.div2 p{
+    margin-left: 12px;
+}
+a{
+    font-size: 25px;
+}
