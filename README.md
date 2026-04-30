@@ -1,5 +1,5 @@
 # porfolio_Ruiz
-algoritmos2
+
 El codigo esta dividido en 2 paginas distintas, en el index o archivo principal esta el porfolio
 el en segundo html se encuentra el bolg
 Para facilitar la comprension de estos cada uno tiene su hoja de layout y style diferenciados por una letra mayuscula al final siendo la B para blog y la P para porfolio, estos archivos los meti dentro de la carpeta co los archivos css y cada uno luego en la subcarpeta correspondiente. Por otro lado meti otra carpeta con las imagenes utilozadas para mantener toda la multimedia junta y que el repertorio se vea mas limpio.
